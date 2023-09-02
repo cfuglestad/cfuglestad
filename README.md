@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cfuglestad
 - 👀 I’m interested in machine learning and healthcare economics
-- 🌱 I’m currently learning economics at UW-Madison
+- 🌱 I’m currently an Analytics Engineer at Vizient, Inc and continuing learning about all things data
 - 💞️ I’m looking to collaborate on fun ML projects
 - 📫 How to reach me ...
 
